@@ -1,0 +1,1 @@
+{"description": "Origami with Emacs Bindings. Split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.", "url": "https://github.com/kevincobain2000/Origami-Emacs", "platforms": ["*"], "version": "2014.05.13.07.27.54", "sublime_text": "*", "dependencies": []}
